@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+mysql-connector-python
+pydantic
+python-dotenv
+langchain
+langchain-community
+requests
+anthropic
+fastapi-mcp
